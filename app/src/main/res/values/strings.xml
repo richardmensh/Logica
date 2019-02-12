@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Logica app</string>
+    <string name="header">Conjunction (AND)</string>
+    <string name="leftHeader">A</string>
+    <string name="rightHeader">B</string>
+    <string name="answerHeader">A^B</string>
+    <string name="leftQuestion1">T</string>
+    <string name="leftQuestion2">F</string>
+    <string name="leftQuestion3">T</string>
+    <string name="leftQuestion4">T</string>
+    <string name="rightQuestion1">TextView</string>
+    <string name="rightQuestion2">TextView</string>
+    <string name="rightQuestion3">TextView</string>
+    <string name="rightQuestion4">TextView</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="trueCheck">T</string>
+    <string name="falseCheck">F</string>
+</resources>
+
